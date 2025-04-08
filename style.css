@@ -443,6 +443,11 @@ html{
          margin-top: -50%; 
        
     }
+    .row{
+        display: flex;
+        flex-direction: column;
+        
+    } 
      
     .all{
         display: inline;
